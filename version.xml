@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <note>
   <version>0.0.0.1</version>
-  <from>Jani</from>
-  <heading>Reminder</heading>
-  <body>Don't forget me this weekend!</body>
+  <json1>GAIYA.deps.json</json1>
+  <json2>GAIYA.runtimeconfig.dev.json</json2>
+  <json3>GAIYA.runtimeconfig.json</json3>
+  <dll1>BouncyCastle.Crypto.dll</dll1>
+  <dll2>GAIYA.dll</dll2>
+  <dll3>ICSharpCode.SharpZipLib.dll</dll3>
+  <dll4>NPOI.dll</dll4>
+  <dll5>NPOI.OOXML.dll</dll5>
+  <dll6>NPOI.OpenXml4Net.dll</dll6>
+  <dll7>NPOI.OpenXmlFormats.dll</dll7>
+  <dll8>GAIYA.pdb</dll8>
 </note>
