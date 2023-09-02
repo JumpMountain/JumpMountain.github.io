@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <note>
-  <version>2.0.0.0</version>
+  <version>3.0.0.0</version>
   <json1>GAIYA.deps.json</json1>
   <json2>GAIYA.runtimeconfig.dev.json</json2>
   <json3>GAIYA.runtimeconfig.json</json3>
